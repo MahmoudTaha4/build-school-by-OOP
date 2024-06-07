@@ -1,0 +1,7 @@
+# ninja log v5
+0	915	7394606147878739	CMakeFiles/school.dir/main.cpp.obj	716571d3fb2a85e8
+917	1081	7394606149505546	school.exe	31a14caef639fa84
+6	838	7394616871483241	CMakeFiles/school.dir/Student.cpp.obj	e6a8df393fcc0202
+2	1328	7394616876392327	CMakeFiles/school.dir/main.cpp.obj	716571d3fb2a85e8
+9	1390	7394616877010693	CMakeFiles/school.dir/School.cpp.obj	a683000335b940db
+1390	1623	7394616879280818	school.exe	55392e61187aa505
